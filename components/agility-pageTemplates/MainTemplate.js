@@ -5,7 +5,7 @@ class OneColumnTemplate extends Component {
     render() {
         return (
         <div className="one-column-template">
-          <ContentZone name='MainContentZone' {...this.props} />
+         {/* <ContentZone name='MainContentZone' {...this.props} /> */}
           <ContentZone name='UnsubscribeContentZone' {...this.props}/>
         </div>
         );
