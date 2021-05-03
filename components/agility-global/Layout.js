@@ -53,7 +53,7 @@ function Layout(props) {
         ogImage={dynamicPageItem?.seo?.ogImage}
         metaHTML={page.seo.metaHTML}
       />
-      <PreviewBar {...props} />
+      {/*<PreviewBar {...props} />*/}
       <MainElem>
         {/* <AnimationRevealPage disabled> */}
        {/* <GlobalHeader {...props} />*/}
