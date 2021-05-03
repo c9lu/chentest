@@ -58,7 +58,7 @@ function Layout(props) {
         {/* <AnimationRevealPage disabled> */}
        {/* <GlobalHeader {...props} />*/}
         <AgilityPageTemplate {...props} />
-        <GlobalFooter {...props} />
+       {/*} <GlobalFooter {...props} />*/}
         {/* </AnimationRevealPage> */}
       </MainElem>
     </>

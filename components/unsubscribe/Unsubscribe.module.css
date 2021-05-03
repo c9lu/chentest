@@ -1,0 +1,45 @@
+/* You can add global styles to this file, and also import other style files */
+.container {
+    max-width: 900px;
+    text-align: center;
+    font-size: 18px;
+    margin: auto;
+    margin-top: 50px;
+  
+  }
+  
+ .introMessage{
+  font-size: 20px;
+  letter-spacing: .1rem;
+ }
+  
+  .emailBox{
+    border:none;
+    font-size: 18px;
+  }
+  
+  .colorButton{
+    padding: 15px 25px;
+    border: none;
+    background: #C9BFBA;
+    border-radius: 0;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 20px;
+    color:#000;
+    text-decoration: none;
+    display: inline-block;
+  
+  }
+  
+  .colorButton:hover{
+  
+    background: #8A8780;
+    color: #fff;
+   
+  }
+  
+  .logo{
+    max-width: 300px;
+    margin-bottom: 50px;
+  }
